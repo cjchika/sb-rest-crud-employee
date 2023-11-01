@@ -1,6 +1,5 @@
 package com.cjchika.crudapi.crudapidemo.rest;
 
-import com.cjchika.crudapi.crudapidemo.dao.EmployeeDAO;
 import com.cjchika.crudapi.crudapidemo.entity.Employee;
 import com.cjchika.crudapi.crudapidemo.service.EmployeeService;
 import org.springframework.web.bind.annotation.*;
